@@ -1,4 +1,4 @@
-package sasank;
+package sk_program;
 
 import java.io.*;
 import java.net.*;
